@@ -1,4 +1,4 @@
-# Github users
+# Github users 🚀λ🏆
 
 Simple hobby project working with React native and Typescript.
 
@@ -17,3 +17,6 @@ Where you can search for different users and check out there profile and reposit
 * <a href="https://developer.github.com/v3/">Github api</a>
 * <a href="https://www.typescriptlang.org/">Typescript</a>
 * <a href="https://reactnative.dev/">React Native</a>
+
+
+If you want to make some changes ore improve the application , please do so. You will not have to ask for permission. 😎
